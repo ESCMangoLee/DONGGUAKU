@@ -43,3 +43,4 @@ jobs:
                   TG_USER_ID: ${{ secrets.TG_USER_ID }}
                   EFORK: ${{ secrets.EFORK }}
                   GITHUB: ${{ secrets.GITHUB }}
+                  UN_SUBSCRIBES: ${{ secrets.UN_SUBSCRIBES }}
